@@ -1,8 +1,9 @@
 import RPi.GPIO as GPIO
 import time
+import picamera
 import multiprocessing
 import numpy as np
-
+import cv2 as cv
 
 
 GPIO.setmode(GPIO.BCM)
