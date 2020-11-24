@@ -1,4 +1,4 @@
-# crab-robot
+# Crab Robot
 Crab is a legged robot made for IESL robogame competition. Raspberri Pi 3b has been used this and all the scripts are in pyhton 3.
 
 Materials used:
@@ -11,6 +11,8 @@ Materials used:
   
 Basic segmentation methods in image processing was used in order to recognize the direction indicated by the arrow.
 
-#  Runners up
+#  Runners up of ROBOGAME 2018
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/bumuthu/crab-robot/blob/master/crab.jpg)
+
+Thanks a lot!
